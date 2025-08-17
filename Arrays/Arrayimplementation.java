@@ -64,6 +64,5 @@ class arrayimplementation{
             System.out.println(number);
         }
 
-
     }
 }
